@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Heitor Tieri",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Meus Videos",
+        "url": "https://www.youtube.com/channel/UC8rprL599wDrl1wOf_TZ_dQ"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que faz um pai apaixonado pelo seu filho? #Heitortieri",
+          "url": "https://www.youtube.com/watch?v=P2OUbNSoePM"
         },
         {
           "titulo": "SEO com React",
@@ -44,10 +44,10 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Lucas Neto",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Canal do Lucas",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
