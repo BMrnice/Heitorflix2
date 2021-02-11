@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Heitor Tieri",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Meus Videos",
@@ -26,20 +26,20 @@
           "url": "https://www.youtube.com/watch?v=Xh7mJC0y_Oc"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": ""
         }        
       ]
     },
@@ -64,12 +64,12 @@
           "url": "https://www.youtube.com/watch?v=MxROqbnZ3KI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Aluna malvada vs aluna boa",
+          "url": "https://www.youtube.com/watch?v=tmVj7w5qtQc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O aventureiro Azul",
+          "url": "https://www.youtube.com/watch?v=IB6hxlhLEbw"
         }
       ]
     },
@@ -90,12 +90,12 @@
           "url": "https://www.youtube.com/watch?v=hOnKhEyHx-0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "caixas atrasadas",
+          "url": "https://www.youtube.com/watch?v=D5Vn7WkTExU"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "playlist ",
+          "url": "https://www.youtube.com/watch?v=p1crMZp_Of8"
         }
       ]
     },
@@ -108,16 +108,16 @@
           "url": "https://www.youtube.com/watch?v=N1UDsjqwGqc"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "1:52 min de irmao do jorel",
+          "url": "https://www.youtube.com/watch?v=l2XIU5j_KeQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Seja Brócolis",
+          "url": "https://www.youtube.com/watch?v=hNKJ83Xjgq0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Jardim da Pesada",
+          "url": "https://www.youtube.com/watch?v=RPf8cYrA9wQ"
         }
       ]
     },
@@ -125,8 +125,8 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Game play",
+        "url": "/"
       },
       "videos": [
         {
@@ -134,16 +134,16 @@
           "url": "https://www.youtube.com/watch?v=sgHDIUxR23E"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Mario WIi",
+          "url": "https://www.youtube.com/watch?v=wzSBNzoDSug"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "PJ Masks",
+          "url": "https://www.youtube.com/watch?v=m0ztZZFy8dA"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Pow Patrol missao encontrar",
+          "url": "https://www.youtube.com/watch?v=vs5jg4gOfIw"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
@@ -156,7 +156,7 @@
       "cor": "#6b5be2",
       "link_extra": {
         "text": "desenho do pica pau",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "url": "/"
       },
       "videos": [
         {
@@ -164,20 +164,20 @@
           "url": "https://www.youtube.com/watch?v=vZaLuNGIX7w"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Uma hora de pica pau",
+          "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Bob esponja",
+          "url": "https://www.youtube.com/watch?v=M7jJQFoyoGU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Marsh e o Urso",
+          "url": "https://www.youtube.com/watch?v=VSfoV_xrh78&t=240s"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Peppa pig",
+          "url": "https://www.youtube.com/watch?v=iSw1CIP3Rek"
         }
       ]
     }
